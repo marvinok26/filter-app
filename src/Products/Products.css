@@ -13,12 +13,12 @@
     cursor: pointer;
 }
 .card-img{
-    width: 13rem;
+    width: 10rem;
     margin-bottom: 1rem;
 }
 
 .card-title{
-    margin-left: 1rem;
+    margin-bottom: 1rem;
 }
 
 .card-reviews{
